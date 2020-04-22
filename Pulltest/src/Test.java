@@ -5,6 +5,8 @@ public class Test {
 		
 		System.out.println("hiiii");
 		
+		System.out.println("hii ramu");
+		
 	}
 
 }
